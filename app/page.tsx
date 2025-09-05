@@ -1,5 +1,4 @@
 import RichTextEditor from "@/components/rich-text-editor";
-import { Button } from "../components/ui/button";
 
 export default function Home() {
   return (
